@@ -1,3 +1,5 @@
+#Excercicios_basicosSQL
+
 Questão 1
 Você é responsável por controlar os dados de clientes e de produtos da sua empresa. O que você precisará fazer é confirmar se:   
 
